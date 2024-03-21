@@ -85,7 +85,7 @@ This is a full stack ecommerce project that includes a backend built with the CM
 
 ---
 
-### Database-Product Control
+### Dashboard-Product Control
 
 ![Database-Product Control](https://github.com/mohamedismail44/Fullstack-Next-Ecommerce/assets/160850657/71999934-c32e-4b3e-99bd-19d26f05d226)
 
