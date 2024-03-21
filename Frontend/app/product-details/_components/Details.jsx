@@ -61,7 +61,7 @@ export default function Details({ Product }) {
               {Product?.attributes?.description[0]?.children[0]?.text}
             </p>
             <h2 className="flex items-center text-sm ">
-              {Product?.attributes?.instantDelivery ? (
+              {Product?.attributes?.InstantDelivery ? (
                 <i className="text-green-600 mr-2 text-2xl fa-solid fa-truck-fast"></i>
               ) : (
                 <i className="text-gray-500 mr-2 text-2xl fa-solid fa-truck-fast"></i>
